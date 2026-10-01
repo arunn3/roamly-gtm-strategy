@@ -2,7 +2,7 @@
 
 > Module 1 · Build Your V1 GTM Strategy — ★ Deliverable 1
 >
-> **Reading guide.** Facts from the project brief are tagged *[Brief]*. External facts carry a source tag (*[S1]*…) listed at the bottom. Anything else is an **assumption** (*A1*…), listed in the register at the end, and is meant to be validated, not trusted.
+> Compile your inputs, pressure-test them with AI, and ship your first strategy one-pager. This is a living document — fill in what you can now, and refine it as the course progresses.
 
 ## 1. The Discover Framework
 
@@ -101,7 +101,7 @@ If invitees stall, the organizer ends up chasing people again, only now inside R
 
 ## Link to full artifact
 
-Final deck: `06-launch/final-presentation.html` (HTML) and `06-launch/final-presentation.pptx` (PowerPoint).
+GTM Strategy Builder Export: `01-gtm-strategy/roamly-gtm-strategy.md`.
 
 ## Sources
 
