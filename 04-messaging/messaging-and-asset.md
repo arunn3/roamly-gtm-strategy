@@ -2,7 +2,7 @@
 
 > Module 4 · Deliver Messaging That Captivates Customers — ★ Deliverable 4
 >
-> Tags: *[Brief]* = project brief · *[S#]* = source (list at the bottom) · *A#* = assumption (register in Deliverable 1). Lines marked **[Beta]** are evidence slots that cannot be filled until the closed beta runs; no performance claims are made before then.
+> Turn your positioning into a message that moves people: set the market context, build a pillar per audience, activate it across surfaces, and produce one AI-generated asset.
 
 ## 1. Fro/To market shift
 
@@ -79,7 +79,7 @@
 
 ## Link to full artifact
 
-Final deck: `06-launch/final-presentation.html` / `06-launch/final-presentation.pptx`.
+Messaging Builder Output: `04-messaging/roamly-messaging.md`.
 
 ## Sources
 
