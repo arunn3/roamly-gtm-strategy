@@ -2,7 +2,7 @@
 
 > Module 2 · Competitive Intelligence — ★ Deliverable 2
 >
-> Tags: *[Brief]* = project brief · *[S#]* = source (list at the bottom) · *A#* = assumption (register in Deliverable 1).
+> A battlecard that maps the competitive landscape and the one strategic bet you'll make to win.
 
 ## 1. The competitive set
 
@@ -94,7 +94,7 @@
 
 ## Link to full artifact
 
-Final deck: `06-launch/final-presentation.html` / `06-launch/final-presentation.pptx`.
+**Battlecard Builder export**: `02-competitive-intel/roamly-battlecard-bet.md`.
 
 ## Sources
 
