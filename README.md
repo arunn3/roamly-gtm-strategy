@@ -10,17 +10,17 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ☐ | `01-gtm-strategy/gtm-strategy.md` |
-| 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ☐ | `02-competitive-intel/battlecard-and-bet.md` |
-| 3 | **Positioning Statement** (framework + statement) | M3 | ☐ | `03-positioning/positioning.md` |
-| 4 | **Messaging & AI-Generated Asset** | M4 | ☐ | `04-messaging/messaging-and-asset.md` |
-| 5 | **Pricing Recommendation** | M5 | ☐ | `05-pricing/pricing-recommendation.md` |
-| 6 | **Individual Insights** (launch + reflection) | M6 | ☐ | `06-launch/individual-insights.md` |
-| ★ | **Final GTM Presentation** (all six, as one HTML deck) | M6 | ☐ | `06-launch/final-presentation.md` → `final-presentation.html` |
+| 1 | **GTM Strategy** (Discover Framework + motion + V1 one-pager) | M1 | ☑ | `01-gtm-strategy/gtm-strategy.md` |
+| 2 | **Competitive Intelligence & Strategic Bet** (battlecard) | M2 | ☑ | `02-competitive-intel/battlecard-and-bet.md` |
+| 3 | **Positioning Statement** (framework + statement) | M3 | ☑ | `03-positioning/positioning.md` |
+| 4 | **Messaging & AI-Generated Asset** | M4 | ☑ | `04-messaging/messaging-and-asset.md` |
+| 5 | **Pricing Recommendation** | M5 | ☑ | `05-pricing/pricing-recommendation.md` |
+| 6 | **Individual Insights** (launch + reflection) | M6 | ☑ | `06-launch/individual-insights.md` |
+| ★ | **Final GTM Presentation** (all six, as one HTML deck) | M6 | ☑ | `06-launch/final-presentation.md` → `final-presentation.html` (+ `.pptx`) |
 
 ## The strategy in one sentence
 
-_What is Roamly Groups, who is it for, and what's the single GTM bet you're making?_
+**Roamly Groups** lets one person book, split and plan a whole party's local experiences from a single link. It is built first for **friend-group and celebration organizers** who already use Roamly, through a **product-led** motion. The bet: **win by making the organizer's job disappear** (no fronting the money, no chasing replies), because that burden is what every alternative leaves in place, and the invitees the organizer brings in create the growth loop.
 
 ___
 

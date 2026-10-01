@@ -48,4 +48,8 @@ OUTPUT — return only the complete HTML file in one code block, ready to save a
 
 ## Link to the published deck
 
-_[link to your final-presentation.html — e.g. a GitHub Pages URL]_
+- Self-contained HTML deck (open in any browser, works offline): [`final-presentation.html`](final-presentation.html)
+- PowerPoint version for presenting (same content): [`final-presentation.pptx`](final-presentation.pptx)
+- To get a shareable web link, enable GitHub Pages on the repo and point it at this folder.
+
+**How these were built:** both decks come from one shared content source, so they match slide for slide. Slides 1–8 follow the required structure; slides 9–11 are an appendix (launch plan, metrics and tripwires, open assumptions).
