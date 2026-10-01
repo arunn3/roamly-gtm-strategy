@@ -2,9 +2,7 @@
 
 > Module 5 · Increase Revenue Through Smarter Pricing and Packaging — ★ Deliverable 5
 >
-> Tags: *[Brief]* = project brief · *[S#]* = source (list at the bottom) · *A#* = assumption (register in Deliverable 1).
->
-> **Important:** Roamly has no willingness-to-pay data for Groups, and its commission rates were not provided (A1). Every price below is a **hypothesis range to be tested**, not a final number. Order of work: value first, packaging second, research last.
+> Propose a pricing model and packaging structure for a product with no existing price. Work in order: value first, packaging second, research last — then compile a one-page recommendation for stakeholders.
 
 ## 1. Pricing goal
 
@@ -63,7 +61,7 @@ For each stakeholder, what they most need to hear:
 
 ## Link to full artifact
 
-Final deck: `06-launch/final-presentation.html` / `06-launch/final-presentation.pptx`.
+Pricing Builder Output: `05-pricing/roamly-pricing.md`.
 
 ## Sources
 
