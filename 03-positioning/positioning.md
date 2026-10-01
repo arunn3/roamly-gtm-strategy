@@ -2,7 +2,7 @@
 
 > Module 3 · Master Product Positioning — ★ Deliverable 3
 >
-> Tags: *[Brief]* = project brief · *[S#]* = source (see Deliverable 2) · *A#* = assumption (register in Deliverable 1).
+> Lock the positioning framework, then write and pressure-test the statement.
 
 ## Persona (who we're positioning for)
 
@@ -61,7 +61,7 @@ A message that drifts from the position (for example, one that sells only "cheap
 
 ## Link to full artifact
 
-Final deck: `06-launch/final-presentation.html` / `06-launch/final-presentation.pptx`.
+Positioning Builder Export: `03-positioning/roamly-positioning.md`.
 
 ## Sources
 
